@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Project-5-orange)
 [Live Link](https://crypto-landing-page-1.netlify.app/)
 
-## Screeshort
+## Screenshort
 ![Screeshort](Screenshots/Screenshot.png)
    * * *
   ## What i learned from this project
